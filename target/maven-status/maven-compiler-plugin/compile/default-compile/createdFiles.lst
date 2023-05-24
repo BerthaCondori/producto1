@@ -1,0 +1,3 @@
+com\emergentes\modelo\paginaprincipal.class
+com\emergentes\dao\ProductoDao.class
+com\emergentes\utiles\conexion_bd.class
